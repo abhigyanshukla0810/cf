@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/630/problem/R" target="_blank" rel="noopener noreferrer">630R — Game</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1200 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 630R](https://codeforces.com/contest/630/problem/R) |
+
+## Topics
+`games` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">R. Game</div><div class="time-limit"><div class="property-title">time limit per test</div>0.5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>There is a legend in the IT City college. A student that failed to answer all questions on the game theory exam is given one more chance by his professor. The student has to play a game with the professor.</p><p>The game is played on a square field consisting of <span class="tex-span"><i>n</i> × <i>n</i></span> cells. Initially all cells are empty. On each turn a player chooses and paint an empty cell that has no common sides with previously painted cells. Adjacent corner of painted cells is allowed. On the next turn another player does the same, then the first one and so on. The player with no cells to paint on his turn loses.</p><p>The professor have chosen the field size <span class="tex-span"><i>n</i></span> and allowed the student to choose to be the first or the second player in the game. What should the student choose to win the game? Both players play optimally.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input contains one integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">18</sup></span>) — the size of the field.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output number <span class="tex-font-style-tt">1</span>, if the player making the first turn wins when both players play optimally, otherwise print number <span class="tex-font-style-tt">2</span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007000992697876172" id="id004013976847023748" class="input-output-copier">Copy</div></div><pre id="id007000992697876172">1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005671975869173536" id="id004638023923117355" class="input-output-copier">Copy</div></div><pre id="id005671975869173536">1</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0005799864754904038" id="id0031058810843367635" class="input-output-copier">Copy</div></div><pre id="id0005799864754904038">2<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004235969508852989" id="id00004127864527323277" class="input-output-copier">Copy</div></div><pre id="id004235969508852989">2</pre></div></div></div>
