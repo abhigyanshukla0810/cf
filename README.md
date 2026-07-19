@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 106 | 15 |
+| 121 | 16 |
 
 ---
 
@@ -15,18 +15,19 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (18)
+- [brute force](#brute-force) (21)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [dp](#dp) (3)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (17)
-- [implementation](#implementation) (66)
-- [math](#math) (41)
+- [greedy](#greedy) (19)
+- [implementation](#implementation) (75)
+- [math](#math) (48)
 - [number theory](#number-theory) (6)
-- [sortings](#sortings) (7)
-- [strings](#strings) (19)
+- [probabilities](#probabilities) (1)
+- [sortings](#sortings) (8)
+- [strings](#strings) (21)
 
 ---
 
@@ -70,6 +71,9 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1873/A%20-%20Short%20Sort/solution.c) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
+| 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.c) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
@@ -122,8 +126,10 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
 | 2139A | [Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2139/A%20-%20Maple%20and%20Multiplication/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.c) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
@@ -139,6 +145,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
@@ -170,9 +177,11 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.cpp) |
 | 630L | [Cracking the Code](https://codeforces.com/contest/630/problem/L) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/630/L%20-%20Cracking%20the%20Code/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
+| 703A | [Mishka and Game](https://codeforces.com/contest/703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/703/A%20-%20Mishka%20and%20Game/solution.cpp) |
 | 707A | [Brain's Photos](https://codeforces.com/contest/707/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/707/A%20-%20Brain's%20Photos/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
@@ -191,11 +200,17 @@
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.py) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
+| 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.c) |
+| 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1873/A%20-%20Short%20Sort/solution.c) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1915C | [Can I Square?](https://codeforces.com/contest/1915/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1915/C%20-%20Can%20I%20Square%3F/solution.cpp) |
+| 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.c) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.c) |
+| 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
@@ -210,6 +225,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
 | 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
@@ -223,12 +239,15 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/617/A%20-%20Elephant/solution.c) |
 | 630L | [Cracking the Code](https://codeforces.com/contest/630/problem/L) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/630/L%20-%20Cracking%20the%20Code/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.c) |
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1371A | [Magical Sticks](https://codeforces.com/contest/1371/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1371/A%20-%20Magical%20Sticks/solution.cpp) |
+| 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
@@ -237,7 +256,10 @@
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1901/A%20-%20Line%20Trip/solution.c) |
+| 1950C | [Clock Conversion](https://codeforces.com/contest/1950/problem/C) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1950/C%20-%20Clock%20Conversion/solution.c) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.c) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2139A | [Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2139/A%20-%20Maple%20and%20Multiplication/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2167/A%20-%20Square%3F/solution.c) |
@@ -261,6 +283,12 @@
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.py) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
+
 ### sortings
 
 | # | Problem | Difficulty | Solution |
@@ -268,6 +296,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.c) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2167/A%20-%20Square%3F/solution.c) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
@@ -291,10 +320,12 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 | 1829A | [Love Story](https://codeforces.com/contest/1829/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1829/A%20-%20Love%20Story/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ---
