@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 191 | 21 |
+| 192 | 21 |
 
 ---
 
@@ -26,13 +26,13 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (37)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (107)
+- [implementation](#implementation) (108)
 - [math](#math) (73)
 - [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (20)
-- [strings](#strings) (30)
+- [sortings](#sortings) (21)
+- [strings](#strings) (31)
 
 ---
 
@@ -224,6 +224,7 @@
 | 45A | [Codecraft III](https://codeforces.com/contest/45/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/45/A%20-%20Codecraft%20III/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
+| 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 94A | [Restoring Password](https://codeforces.com/contest/94/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/94/A%20-%20Restoring%20Password/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/96/A%20-%20Football/solution.cpp) |
@@ -436,6 +437,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 220A | [Little Elephant and Problem](https://codeforces.com/contest/220/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/220/A%20-%20Little%20Elephant%20and%20Problem/solution.cpp) |
@@ -464,6 +466,7 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 94A | [Restoring Password](https://codeforces.com/contest/94/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/94/A%20-%20Restoring%20Password/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/96/A%20-%20Football/solution.cpp) |
