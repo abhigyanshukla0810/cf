@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 203 | 22 |
+| 204 | 22 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (32)
+- [brute force](#brute-force) (33)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (2)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (2)
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (40)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (111)
-- [math](#math) (80)
+- [math](#math) (81)
 - [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -91,6 +91,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1873/A%20-%20Short%20Sort/solution.c) |
@@ -145,6 +146,7 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
@@ -395,6 +397,7 @@
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1593A | [Elections](https://codeforces.com/contest/1593/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1593/A%20-%20Elections/solution.cpp) |
 | 1729A | [Two Elevators](https://codeforces.com/contest/1729/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1729/A%20-%20Two%20Elevators/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
