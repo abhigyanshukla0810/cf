@@ -13,8 +13,8 @@ int main(){
         cin>>s1>>s2;
         vector <int> v1,v2;
         for(int i = 0; i<n;i++){
-            if(s1[i]=='1') v1.push_back(i%2);
-            if(s2[i]=='1') v2.push_back(i%2);
+            if(s1[i]=='1') v1.emplace_back(i%2);
+            if(s2[i]=='1') v2.emplace_back(i%2);
         }
         if(v1.size() != v2.size()) cout<<"NO
 ";
