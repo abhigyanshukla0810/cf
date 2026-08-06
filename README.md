@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 211 | 22 |
+| 212 | 22 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (34)
+- [brute force](#brute-force) (35)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (2)
@@ -25,7 +25,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (41)
+- [greedy](#greedy) (42)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (113)
 - [math](#math) (83)
@@ -106,6 +106,7 @@
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.c) |
@@ -213,6 +214,7 @@
 | 1915D | [Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1915/D%20-%20Unnatural%20Language%20Processing/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2139A | [Maple and Multiplication](https://codeforces.com/contest/2139/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2139/A%20-%20Maple%20and%20Multiplication/solution.cpp) |
+| 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.cpp) |
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.c) |
