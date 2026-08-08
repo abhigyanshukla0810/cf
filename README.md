@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 217 | 22 |
+| 218 | 22 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (43)
+- [greedy](#greedy) (44)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (115)
 - [math](#math) (84)
@@ -33,7 +33,7 @@
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (21)
-- [strings](#strings) (33)
+- [strings](#strings) (34)
 
 ---
 
@@ -197,6 +197,7 @@
 |---|---------|------------|----------|
 | 45I | [TCMCF+++](https://codeforces.com/contest/45/problem/I) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/45/I%20-%20TCMCF%2B%2B%2B/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/158/B%20-%20Taxi/solution.c) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
@@ -515,6 +516,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/43/A%20-%20Football/solution.cpp) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
