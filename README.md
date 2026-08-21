@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 221 | 22 |
+| 222 | 22 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (45)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (115)
+- [implementation](#implementation) (116)
 - [math](#math) (86)
 - [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
@@ -289,6 +289,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
+| 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 431A | [Black Square](https://codeforces.com/contest/431/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/431/A%20-%20Black%20Square/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
