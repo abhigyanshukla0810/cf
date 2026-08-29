@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 226 | 23 |
+| 227 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (3)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (38)
@@ -55,6 +55,7 @@
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### binary search
 
