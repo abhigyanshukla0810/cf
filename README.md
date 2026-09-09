@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 229 | 23 |
+| 230 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (49)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (118)
+- [implementation](#implementation) (119)
 - [math](#math) (88)
 - [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
@@ -380,6 +380,7 @@
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 | 2228A | [Marisa Steals Reimu's Takeout](https://codeforces.com/contest/2228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2228/A%20-%20Marisa%20Steals%20Reimu's%20Takeout/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
 
