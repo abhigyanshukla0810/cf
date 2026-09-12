@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 232 | 23 |
+| 233 | 23 |
 
 ---
 
@@ -26,8 +26,8 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (49)
-- [hashing](#hashing) (1)
-- [implementation](#implementation) (120)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (121)
 - [math](#math) (90)
 - [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
@@ -257,12 +257,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 25B | [Phone numbers](https://codeforces.com/contest/25/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/25/B%20-%20Phone%20numbers/solution.cpp) |
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
