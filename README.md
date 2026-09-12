@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 231 | 23 |
+| 232 | 23 |
 
 ---
 
@@ -27,8 +27,8 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (49)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (119)
-- [math](#math) (89)
+- [implementation](#implementation) (120)
+- [math](#math) (90)
 - [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -271,6 +271,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
+| 65A | [Harry Potter and Three Spells](https://codeforces.com/contest/65/problem/A) | 1800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/65/A%20-%20Harry%20Potter%20and%20Three%20Spells/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 94A | [Restoring Password](https://codeforces.com/contest/94/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/94/A%20-%20Restoring%20Password/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/96/A%20-%20Football/solution.cpp) |
@@ -392,6 +393,7 @@
 | 9A | [Die Roll](https://codeforces.com/contest/9/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/9/A%20-%20Die%20Roll/solution.cpp) |
 | 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
+| 65A | [Harry Potter and Three Spells](https://codeforces.com/contest/65/problem/A) | 1800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/65/A%20-%20Harry%20Potter%20and%20Three%20Spells/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/200/B%20-%20Drinks/solution.py) |
