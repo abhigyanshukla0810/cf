@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 245 | 23 |
+| 246 | 23 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (15)
+- [constructive algorithms](#constructive-algorithms) (16)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (8)
 - [expression parsing](#expression-parsing) (1)
@@ -29,7 +29,7 @@
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (126)
 - [math](#math) (92)
-- [number theory](#number-theory) (13)
+- [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (25)
@@ -143,6 +143,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
+| 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
 | 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
 | 2013A | [Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2013/A%20-%20Zhan's%20Blender/solution.cpp) |
@@ -511,6 +512,7 @@
 | 664A | [Complicated GCD](https://codeforces.com/contest/664/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/664/A%20-%20Complicated%20GCD/solution.cpp) |
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.py) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
