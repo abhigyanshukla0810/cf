@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 247 | 23 |
+| 249 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (3)
+- [*special](#special) (5)
 - [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (39)
-- [combinatorics](#combinatorics) (2)
+- [brute force](#brute-force) (40)
+- [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (16)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (8)
@@ -44,6 +44,8 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/158/B%20-%20Taxi/solution.c) |
+| 171B | [Star](https://codeforces.com/contest/171/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/B%20-%20Star/solution.cpp) |
+| 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/D%20-%20Broken%20checker/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### Uncategorized
@@ -93,6 +95,7 @@
 | 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.c) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/D%20-%20Broken%20checker/solution.cpp) |
 | 199A | [Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/199/A%20-%20Hexadecimal's%20theorem/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
@@ -132,6 +135,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 171B | [Star](https://codeforces.com/contest/171/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/B%20-%20Star/solution.cpp) |
 | 630C | [Lucky Numbers](https://codeforces.com/contest/630/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/630/C%20-%20Lucky%20Numbers/solution.cpp) |
 | 630F | [Selection of Personnel](https://codeforces.com/contest/630/problem/F) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/630/F%20-%20Selection%20of%20Personnel/solution.cpp) |
 
