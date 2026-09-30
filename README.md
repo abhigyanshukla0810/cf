@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 249 | 23 |
+| 250 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (5)
+- [*special](#special) (6)
 - [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (4)
@@ -46,6 +46,7 @@
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/158/B%20-%20Taxi/solution.c) |
 | 171B | [Star](https://codeforces.com/contest/171/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/B%20-%20Star/solution.cpp) |
 | 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/D%20-%20Broken%20checker/solution.cpp) |
+| 171E | [MYSTERIOUS LANGUAGE](https://codeforces.com/contest/171/problem/E) | 2000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/171/E%20-%20MYSTERIOUS%20LANGUAGE/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### Uncategorized
