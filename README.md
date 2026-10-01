@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 250 | 23 |
+| 252 | 23 |
 
 ---
 
@@ -18,17 +18,17 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (40)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (16)
+- [constructive algorithms](#constructive-algorithms) (17)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (8)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
-- [geometry](#geometry) (3)
+- [geometry](#geometry) (4)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (53)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (126)
-- [math](#math) (93)
+- [implementation](#implementation) (127)
+- [math](#math) (94)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
@@ -146,6 +146,7 @@
 |---|---------|------------|----------|
 | 199A | [Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/199/A%20-%20Hexadecimal's%20theorem/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 820B | [Mister B and Angle in Polygon](https://codeforces.com/contest/820/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/820/B%20-%20Mister%20B%20and%20Angle%20in%20Polygon/solution.cpp) |
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
 | 1740A | [Factorise N+M](https://codeforces.com/contest/1740/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1740/A%20-%20Factorise%20N%2BM/solution.cpp) |
@@ -204,6 +205,7 @@
 |---|---------|------------|----------|
 | 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
 | 706A | [Beru-taxi](https://codeforces.com/contest/706/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/706/A%20-%20Beru-taxi/solution.cpp) |
+| 820B | [Mister B and Angle in Polygon](https://codeforces.com/contest/820/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/820/B%20-%20Mister%20B%20and%20Angle%20in%20Polygon/solution.cpp) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.cpp) |
 
 ### graph matchings
@@ -350,6 +352,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 820A | [Mister B and Book Reading](https://codeforces.com/contest/820/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/820/A%20-%20Mister%20B%20and%20Book%20Reading/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1027A | [Palindromic Twist](https://codeforces.com/contest/1027/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1027/A%20-%20Palindromic%20Twist/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
@@ -441,6 +444,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.c) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.c) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 820B | [Mister B and Angle in Polygon](https://codeforces.com/contest/820/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/820/B%20-%20Mister%20B%20and%20Angle%20in%20Polygon/solution.cpp) |
 | 1149A | [Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1149/A%20-%20Prefix%20Sum%20Primes/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1175A | [From Hero to Zero](https://codeforces.com/contest/1175/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1175/A%20-%20From%20Hero%20to%20Zero/solution.cpp) |
