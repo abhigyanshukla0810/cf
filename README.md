@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 253 | 23 |
+| 254 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (54)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (127)
+- [implementation](#implementation) (128)
 - [math](#math) (94)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
@@ -305,6 +305,7 @@
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/136/A%20-%20Presents/solution.c) |
+| 137A | [Postcards and photos](https://codeforces.com/contest/137/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/137/A%20-%20Postcards%20and%20photos/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
