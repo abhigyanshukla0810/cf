@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 252 | 23 |
+| 253 | 23 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (6)
 - [geometry](#geometry) (4)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (53)
+- [greedy](#greedy) (54)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (127)
 - [math](#math) (94)
@@ -221,6 +221,7 @@
 | 45I | [TCMCF+++](https://codeforces.com/contest/45/problem/I) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/45/I%20-%20TCMCF%2B%2B%2B/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 137B | [Permutation](https://codeforces.com/contest/137/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/137/B%20-%20Permutation/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/158/B%20-%20Taxi/solution.c) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
