@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 254 | 23 |
+| 257 | 23 |
 
 ---
 
@@ -16,23 +16,23 @@
 - [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (9)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (40)
+- [brute force](#brute-force) (41)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (17)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (8)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
-- [geometry](#geometry) (4)
+- [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (54)
+- [greedy](#greedy) (55)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (128)
-- [math](#math) (94)
+- [implementation](#implementation) (129)
+- [math](#math) (95)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (25)
+- [sortings](#sortings) (26)
 - [strings](#strings) (35)
 - [ternary search](#ternary-search) (1)
 
@@ -92,6 +92,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
+| 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
 | 47A | [Triangular numbers](https://codeforces.com/contest/47/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/47/A%20-%20Triangular%20numbers/solution.cpp) |
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.c) |
@@ -203,6 +204,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
 | 507B | [Amr and Pins](https://codeforces.com/contest/507/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/507/B%20-%20Amr%20and%20Pins/solution.cpp) |
 | 706A | [Beru-taxi](https://codeforces.com/contest/706/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/706/A%20-%20Beru-taxi/solution.cpp) |
 | 820B | [Mister B and Angle in Polygon](https://codeforces.com/contest/820/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/820/B%20-%20Mister%20B%20and%20Angle%20in%20Polygon/solution.cpp) |
@@ -218,6 +220,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 16B | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/16/B%20-%20Burglar%20and%20Matches/solution.cpp) |
 | 45I | [TCMCF+++](https://codeforces.com/contest/45/problem/I) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/45/I%20-%20TCMCF%2B%2B%2B/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
@@ -286,6 +289,7 @@
 |---|---------|------------|----------|
 | 2A | [Winner](https://codeforces.com/contest/2/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2/A%20-%20Winner/solution.cpp) |
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 16B | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/16/B%20-%20Burglar%20and%20Matches/solution.cpp) |
 | 25B | [Phone numbers](https://codeforces.com/contest/25/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/25/B%20-%20Phone%20numbers/solution.cpp) |
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/41/A%20-%20Translation/solution.py) |
@@ -455,6 +459,7 @@
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.c) |
 | 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.cpp) |
 | 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.cpp) |
+| 1327A | [Sum of Odd Integers](https://codeforces.com/contest/1327/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1327/A%20-%20Sum%20of%20Odd%20Integers/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.c) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
@@ -548,6 +553,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 16B | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/16/B%20-%20Burglar%20and%20Matches/solution.cpp) |
 | 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
