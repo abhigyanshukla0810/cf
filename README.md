@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 257 | 23 |
+| 258 | 23 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (6)
 - [geometry](#geometry) (5)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (55)
+- [greedy](#greedy) (56)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (129)
 - [math](#math) (95)
@@ -221,6 +221,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 16B | [Burglar and Matches](https://codeforces.com/contest/16/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/16/B%20-%20Burglar%20and%20Matches/solution.cpp) |
+| 43C | [Lucky Tickets](https://codeforces.com/contest/43/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/43/C%20-%20Lucky%20Tickets/solution.cpp) |
 | 45I | [TCMCF+++](https://codeforces.com/contest/45/problem/I) | 1400 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/45/I%20-%20TCMCF%2B%2B%2B/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
