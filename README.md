@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 258 | 23 |
+| 260 | 23 |
 
 ---
 
@@ -27,11 +27,11 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (56)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (129)
+- [implementation](#implementation) (131)
 - [math](#math) (95)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
-- [schedules](#schedules) (1)
+- [schedules](#schedules) (2)
 - [sortings](#sortings) (26)
 - [strings](#strings) (35)
 - [ternary search](#ternary-search) (1)
@@ -295,6 +295,7 @@
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/32/B%20-%20Borze/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 45A | [Codecraft III](https://codeforces.com/contest/45/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/45/A%20-%20Codecraft%20III/solution.cpp) |
+| 48A | [Rock-paper-scissors](https://codeforces.com/contest/48/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/48/A%20-%20Rock-paper-scissors/solution.cpp) |
 | 56A | [Bar](https://codeforces.com/contest/56/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/56/A%20-%20Bar/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
@@ -307,6 +308,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 129A | [Cookies](https://codeforces.com/contest/129/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/129/A%20-%20Cookies/solution.cpp) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [GNU C11](https://github.com/abhigyanshukla0810/cf/blob/HEAD/136/A%20-%20Presents/solution.c) |
@@ -548,6 +550,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 48A | [Rock-paper-scissors](https://codeforces.com/contest/48/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/48/A%20-%20Rock-paper-scissors/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ### sortings
