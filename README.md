@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 261 | 23 |
+| 262 | 23 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (56)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (132)
+- [implementation](#implementation) (133)
 - [math](#math) (96)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
@@ -305,6 +305,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 94A | [Restoring Password](https://codeforces.com/contest/94/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/94/A%20-%20Restoring%20Password/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 102B | [Sum of Digits](https://codeforces.com/contest/102/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/102/B%20-%20Sum%20of%20Digits/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/abhigyanshukla0810/cf/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
