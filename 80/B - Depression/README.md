@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Difficulty** | 1200 |
-| **Language** | C++17 (GCC 7-32) |
+| **Language** | GNU C11 |
 | **Verdict** | ✅ Accepted |
 | **Problem Link** | [Codeforces 80B](https://codeforces.com/contest/80/problem/B) |
 
