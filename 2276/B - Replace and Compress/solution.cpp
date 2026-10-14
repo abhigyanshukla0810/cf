@@ -16,6 +16,7 @@ int main(){
         {
             if(s[i-1] == s[i] && s[i] == s[i+1]) x = 1;
             else if(s[i-1] != s[i] && s[i+1] != s[i]) y = 1;
+            if(x == 1 && y ==1 ) break;
         }
         cout<< 1 + x + y<<'
 ';
