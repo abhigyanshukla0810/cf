@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 280 | 23 |
+| 281 | 23 |
 
 ---
 
@@ -27,13 +27,13 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (58)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (136)
+- [implementation](#implementation) (137)
 - [math](#math) (99)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
 - [sortings](#sortings) (27)
-- [strings](#strings) (35)
+- [strings](#strings) (36)
 - [ternary search](#ternary-search) (1)
 
 ---
@@ -441,6 +441,7 @@
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### math
 
@@ -650,6 +651,7 @@
 | 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### ternary search
 
