@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 279 | 23 |
+| 280 | 23 |
 
 ---
 
@@ -27,8 +27,8 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (58)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (135)
-- [math](#math) (98)
+- [implementation](#implementation) (136)
+- [math](#math) (99)
 - [number theory](#number-theory) (15)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
@@ -440,6 +440,7 @@
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### math
 
@@ -543,6 +544,7 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2274A | [The Projections of Paco](https://codeforces.com/contest/2274/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2274/A%20-%20The%20Projections%20of%20Paco/solution.cpp) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/abhigyanshukla0810/cf/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### number theory
 
